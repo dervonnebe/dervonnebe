@@ -35,7 +35,3 @@ Ich bin Jack, 19 Jahre alt und angehender Fachinformatiker für Anwendungsentwic
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=dervonnebe&color=blueviolet" alt="Views" />
 </div>
-
----
-
-*JaxLabs.top - Bringing projects together, one lab at a time.*
