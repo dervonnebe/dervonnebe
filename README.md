@@ -54,7 +54,7 @@ Ich bin Jack, 19 Jahre alt und angehender Fachinformatiker für Anwendungsentwic
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://jaxlabs.top/api/activity.svg?theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://jaxlabs.top/api/activity.svg?theme=light">
-  <img alt="JaxLabs Activity" src="https://jaxlabs.top/api/activity.svg" width="100%">
+  <img alt="JaxLabs Development Activity" src="https://jaxlabs.top/api/activity.svg" width="100%">
 </picture>
 
 <br />
