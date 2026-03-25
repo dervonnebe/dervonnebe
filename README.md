@@ -37,7 +37,7 @@ Ich bin Jack, 19 Jahre alt und angehender Fachinformatiker für Anwendungsentwic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" title="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="45" title="MariaDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" width="45" title="Discord.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/discordjs/discordjs-original.svg" width="45" title="Discord.js" />
 </div>
 
 **Infrastructure & DevTools**
