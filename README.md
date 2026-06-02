@@ -1,10 +1,10 @@
 ### Moin Moin 👋
 
-Ich bin Jack, 19 Jahre alt und angehender Fachinformatiker für Anwendungsentwicklung bei der ConSoft GmbH. Wenn ich nicht gerade an **JaxLabs** schraube, findet man mich meistens bei neuen Projekten.
+Ich bin Jack, 19 Jahre alt und Fachinformatiker für Anwendungsentwicklung bei der ConSoft GmbH. Wenn ich nicht gerade an **JaxLabs** schraube, findet man mich meistens bei neuen Projekten.
 
-- 🔭 **Aktueller Fokus:** Ausbildung abschließen.
+- 🔭 **Aktueller Fokus:** Just live
 - 📫 **Kontakt:** [Discord](https://discord.com/users/1251320629463093259) - [Website](https://feuchte.org/)
-- 🌱 **Status:** In den letzten Zügen meiner Ausbildung (Finish 2026 🚀).
+- 🌱 **Status:** Fachinformatiker bei ConSoft GmbH
 
 ---
 
